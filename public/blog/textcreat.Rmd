@@ -33,3 +33,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 For more information check on <https://hackmd.io/sjQKSL7VSIeHhbMJ1tZYjw?both>.
+
+<br>
