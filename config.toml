@@ -4,8 +4,8 @@ title = "我的個人網站"  # 頁籤標題
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
-googleAnalytics = ""
+disqusShortname = "weishia"  # 留言板帳號
+googleAnalytics = ""         # google關鍵字分析??
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
 enableRobotsTXT = true
